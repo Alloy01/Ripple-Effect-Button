@@ -1,6 +1,6 @@
 # Ripple-Effect-Button
 This project contains code of ripple effect for button.
-#Example
+# Example
 ```ruby
 <Button
         android:layout_width="wrap_content"
@@ -8,7 +8,7 @@ This project contains code of ripple effect for button.
         android:id="@+id/btn"
         android:foreground="?attr/selectableItemBackground" />
 ```
-#Add this code to your button in xml
+# Add this code to your button in xml
 ```ruby
 android:foreground="?attr/selectableItemBackground"
 ```
